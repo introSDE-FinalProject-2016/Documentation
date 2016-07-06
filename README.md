@@ -1,7 +1,7 @@
 # LifeStyle Coach Documentation
 
 ### Project Description
-[Link Final Project Requirements](https://docs.google.com/document/d/1AGxAycsEy1inTSd4mzjgLC6n51emVYRa1YwollR-Uok/edit?pref=2&pli=1)
+[Link Final Project Requirements](https://docs.google.com/document/d/1kcRTSzxkvRPT5Lp3A1eqqR51NNqHHHbmHFrjZKqs4Kc/edit?pref=2&pli=1#)
 
 ### Project Wiki
 [Link Wiki Final Project Documentation](https://github.com/introSDE-FinalProject-2016/Documentation/wiki)
